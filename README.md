@@ -1,6 +1,6 @@
-# ☠️ One Piece Characters - Simple HTML Project
+# ☠️ Netflix Login - Simple HTML Project
 
-Welcome to **netflix login page**! ☠️ A simple HTML, CSS project that you can run instantly in your browser.  
+Welcome to **netflix login page**! 😊 A simple HTML, CSS project that you can run instantly in your browser.  
 
 ## 🖼 Project Preview
 ![image](https://github.com/user-attachments/assets/579c4361-2e68-460b-8873-be98177e1ab7)
