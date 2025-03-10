@@ -8,7 +8,7 @@ Welcome to **netflix login page**! 😊 A simple HTML, CSS project that you can 
 
 
 ---
-a
+
 ## 📌 Features
 - ✅ Fully responsive design  
 - ✅ Built with pure HTML, CSS
